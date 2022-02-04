@@ -4,7 +4,7 @@
 
 🧪 Quickly experiment with the EthGlobal stack including: Polygon, Superfluid, Moralis, and Solidity in order to create and mint HipHopAlchemy an NFT Game based around music and remixing:
 
-![image](https://user-images.githubusercontent.com/2653167/124158108-c14ca380-da56-11eb-967e-69cde37ca8eb.png)
+![image](https://www.hiphopalchemy.com)
 
 
 # 🏄‍♂️ Quick Start
