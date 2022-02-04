@@ -1,8 +1,8 @@
-# 🏗 Scaffold-ETH
+#🐱‍👤🐱‍🏍 Hip Hop Alchemy Prototype1
 
-> everything you need to build on Ethereum! 🚀
+> Eth Global Hackathon Experiment🚀
 
-🧪 Quickly experiment with Solidity using a frontend that adapts to your smart contract:
+🧪 Quickly experiment with the EthGlobal stack including: Polygon, Superfluid, Moralis, and Solidity in order to create and mint HipHopAlchemy an NFT Game based around music and remixing:
 
 ![image](https://user-images.githubusercontent.com/2653167/124158108-c14ca380-da56-11eb-967e-69cde37ca8eb.png)
 
